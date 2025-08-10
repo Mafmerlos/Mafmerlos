@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Matheus Figueira Merlos </h1>
+  <h1>Matheus Figueira Merlos</h1>
   <h3>Estudante de Engenharia da Computação | Desenvolvedor Backend em Formação</h3>
 </div>
 
@@ -24,6 +24,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,c,spring,sql,git,docker" />
   </a>
+</div>
+
+---
+
+## 📊 Linguagens Mais Utilizadas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafmerlos&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
