@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou o Matheus Figueira Merlos </h1>
+  <h1>Eu sou o Matheus Figueira Merlos 👋</h1>
   <h3>Estudante de Engenharia da Computação | Desenvolvedor Backend em Formação</h3>
 </div>
 
@@ -7,13 +7,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-[cite_start]Sou um estudante de **Engenharia da Computação** na [**Universidade de Araraquara (Uniara)**](https://uniara.com.br/)[cite: 8, 9], com um forte interesse em desenvolvimento de software, análise de dados e tecnologia.
+* 🎓 Cursando **Engenharia da Computação** na [**Universidade de Araraquara (Uniara)**](https://uniara.com.br/).
 
-- [cite_start]🚀 Durante minha experiência como **Estagiário de TI** na [**Henrimar Piscinas**](https://www.henrimar.com.br/) [cite: 11, 12][cite_start], tive a oportunidade de trabalhar diretamente com **SQL Server** no desenvolvimento de queries para análise de dados [cite: 13][cite_start], alterar relatórios em **Fast Report** [cite: 14] [cite_start]e auxiliar na implantação de rotinas em sistemas de gestão (Sectra)[cite: 21, 22].
+* 🚀 Experiência como **Estagiário de TI** na **Henrimar Piscinas**, onde atuei com **SQL Server** para análise de dados, desenvolvimento de relatórios e implantação de rotinas em sistemas de gestão.
 
-- [cite_start]🌱 Atualmente, dedico meus estudos ao ecossistema **Java** e **Python** [cite: 30][cite_start], construindo uma base sólida em **Lógica de Programação**, **Estrutura de Dados**, **Programação Orientada a Objetos** e **Banco de Dados**[cite: 29].
+* 💻 Foco de estudo no ecossistema **Java** e **Python**, com base sólida em **Estrutura de Dados**, **Programação Orientada a Objetos** e **Banco de Dados**.
 
-- 🎯 Em constante evolução e dedicado a me tornar um desenvolvedor backend de alta performance, meu estudo está centrado no ecossistema Java, aprimorando minhas habilidades com Spring Boot e na construção de APIs REST robustas e escaláveis. Meu objetivo é colaborar com uma equipe onde eu possa não apenas aplicar o que aprendi, mas também contribuir ativamente para resolver problemas complexos e entregar soluções de grande impacto.
+* 🎯 Atualmente aprimorando minhas habilidades com **Spring Boot** para o desenvolvimento de **APIs REST**, com o objetivo de atuar como **desenvolvedor backend**.
 
 ---
 
