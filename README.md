@@ -39,7 +39,7 @@
 ## 📫 Onde me Encontrar
 
 <div align="center">
-  <p>Vamos nos conectar!</p>
+  <p>Vamos nos conectar!!</p>
   <a href="https://www.linkedin.com/in/matheus-merlos-531089243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
