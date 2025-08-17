@@ -51,5 +51,7 @@
 ---
 
 <div align="center">
-  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i> 💪
+  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
+  <i> "Pra cima! "</i>💪
+  
 </div>
