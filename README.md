@@ -22,7 +22,7 @@
 <div align="center">
   <p>Estas são algumas das ferramentas e tecnologias com as quais tenho trabalhado e estudado:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,spring,sql,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cs,spring,sql,git,docker" />
   </a>
 </div>
 
