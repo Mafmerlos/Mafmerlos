@@ -11,7 +11,7 @@
 
 * 🚀 Experiência como **Estagiário de TI** na **Henrimar Piscinas**, onde atuei com **SQL Server** para análise de dados, desenvolvimento de relatórios e implantação de rotinas em sistemas de gestão.
 
-* 💻 Foco de estudo no ecossistema **Java** e **Python**, com base sólida em **Estrutura de Dados**, **Programação Orientada a Objetos** e **Banco de Dados**.
+* 💻 Foco de estudo no ecossistema **Java**, **Python** e **C#**, com base sólida em **Estrutura de Dados**, **Programação Orientada a Objetos** e **Banco de Dados**.
 
 * 🎯 Atualmente aprimorando minhas habilidades com **Spring Boot** para o desenvolvimento de **APIs REST**, com o objetivo de atuar como **desenvolvedor backend**.
 
