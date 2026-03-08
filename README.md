@@ -22,19 +22,12 @@
 <div align="center">
   <p>Estas são algumas das ferramentas e tecnologias com as quais tenho trabalhado e estudado:</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,cs,spring,sql,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cs,spring,git,docker" />
   </a>
 </div>
 
 ---
 
-## 📊 Linguagens Mais Utilizadas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafmerlos&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
 
 ## 📫 Onde me Encontrar
 
